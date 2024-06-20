@@ -1,0 +1,14 @@
+.Titulo1{
+    color: var(--Plomo);
+    font-size: 20px;
+}
+.NumeroEjer2{
+    color: var(--Plomo);
+    font-size: 20px;
+}
+
+.TituloCabecera{
+    display: flex;
+    flex-direction: wrap;
+    justify-content: space-between;
+}
